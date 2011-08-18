@@ -2,6 +2,10 @@
 # All rights reserved.
 
 # Tests for the guassian elimination code
+# Note that the result strings coded in 
+# may not exactly match the output on your
+# system due to differences in floating-point
+# precision.
 from gaussianelimination import myGauss
 
 # these first two tests integrate into my symbolic calculator
